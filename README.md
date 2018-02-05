@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Mazcoin's homepage
+
+This is a trail page to begen my Journy in creating webpage at github .
 
 You can use the [editor on GitHub](https://github.com/mazcoin2007/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
